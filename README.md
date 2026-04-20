@@ -29,7 +29,7 @@
     return fibonacci(n - 1) + fibonacci(n - 2);
 }
      
-      Menghitung nilai Fibonacci dengan menjumlahkan:suku sebelumnya (n-1) dan dua langkah sebelumnya (n-2)
+      (Menghitung nilai Fibonacci dengan menjumlahkan:suku sebelumnya (n-1) dan dua langkah sebelumnya (n-2))
 
 
  4. Method Utama (main)
