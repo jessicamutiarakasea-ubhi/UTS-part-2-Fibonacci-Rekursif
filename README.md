@@ -1,3 +1,10 @@
+NAMA : JESSICA MUTIARA INDAH SARI KASEA
+
+NPM  : 25161562005
+
+ 
+ <img width="720" height="1280" alt="WhatsApp Image 2026-04-21 at 16 56 56 (1)" src="https://github.com/user-attachments/assets/534ad132-a779-4518-9477-202472e45e67" />
+
 1. Import Library
     >>import java.util.Scanner;
     
